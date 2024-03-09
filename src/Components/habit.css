@@ -1,0 +1,22 @@
+input {
+  margin: 27px;
+  padding: 10px;
+  margin-left: 2px;
+  /* margin-right: 10px; */
+  width: 30%;
+  margin-top: 20px;
+  height: 26px;
+}
+
+button {
+  margin-left: -1%;
+  margin-right: -80px;
+  height: 6vh;
+  width: 6vw;
+}
+
+li {
+  list-style-type: none;
+}
+
+

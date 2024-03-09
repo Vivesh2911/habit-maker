@@ -1,0 +1,9 @@
+.display {
+  border: 2px solid black;
+  height: 30vh;
+  border-radius: 10%;
+}
+
+.form {
+  /* Add your form styles here */
+}

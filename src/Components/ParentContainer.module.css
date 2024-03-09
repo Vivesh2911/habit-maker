@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+}
+
+.heading {
+  color: red;
+  border: 1px solid black;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px grey;
+  min-width: 380px;
+  height: 90vh;
+  background-image: linear-gradient(to bottom right, #ea6117, #ffea00);
+  
+}
